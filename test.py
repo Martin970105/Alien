@@ -4,3 +4,5 @@
 # @Author: wm
 # @Date&Time: 2020/9/5 18:11
 # @Description:game loading
+
+print('test')
