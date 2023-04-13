@@ -14,3 +14,6 @@ pip list
 pip freeze > "requirements.txt"
 pip install -r "requirements.txt"
 ```
+#### Pygame配置
+```
+pip
