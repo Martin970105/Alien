@@ -1,4 +1,5 @@
 ## Git安装
+[Git操作指南](https://www.runoob.com/git/git-tutorial.html)
 ```bash
 git config -global user.name "Your Name"
 it config -global user.email "Your email"
@@ -14,6 +15,7 @@ pip list
 pip freeze > "requirements.txt"
 pip install -r "requirements.txt"
 ```
-#### Pygame配置
+#### Pygame安装
 ```
-pip
+python -m pip install -U pygame==2.3.0 --user
+```
