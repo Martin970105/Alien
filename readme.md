@@ -5,6 +5,7 @@ git config -global user.name "Your Name"
 it config -global user.email "Your email"
 ```
 ### 生成SSH Key
+[用于github链接](https://www.runoob.com/git/git-remote-repo.html)的ssh认证
 ```bash
 ssh-keygen -t rsa -C "邮箱地址"
 ```
